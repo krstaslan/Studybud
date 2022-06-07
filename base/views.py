@@ -1,5 +1,3 @@
-from msilib.schema import Component
-from urllib import request
 from django.http import HttpResponse
 from django.shortcuts import render, redirect
 from django.contrib import messages
